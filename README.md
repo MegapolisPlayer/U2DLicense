@@ -4,7 +4,7 @@ A restrictive license in use by my commercial projects.
 
 This repository contains the full license text of all versions. We strongly recommend using the newest version, as older ones may have loopholes.
 
-Please note that is license will **never** be used in my open source projects, as all of them are licensed under the GPL-compatible **CC-BY 4.0**.
+Please note that is license will **never** be used in my open source projects, as all of them are licensed under **CC-BY 4.0**.
 
 # Licensing
 
