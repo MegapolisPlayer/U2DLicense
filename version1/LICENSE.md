@@ -72,7 +72,7 @@ the Derivative are the Authors of the Software is forbidden.
 15. Pretending to be or impersonating the Authors of the Software is forbidden.
 
 --
-Sections 16-21: General License Information
+Sections 16-22: General License Information
 --
 
 16. The following shortened names are allowed: UDDL, U2DL, UDL, Udidil, U2D. You may add
@@ -91,6 +91,8 @@ The reason for termination will be specified.
 
 21. Exceptions can be granted in some circumstances. The verdict relies solely on the
 Authors of the Software. Exceptions cannot be revoked separately.
+
+22. The author(s) of the License are not a party to this License.
 
 --
 
