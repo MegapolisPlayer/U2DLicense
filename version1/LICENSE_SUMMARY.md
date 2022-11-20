@@ -9,12 +9,11 @@
 - Upgrade to a newer version of the license.
 
 ### You may not:
-- Distribute any builds without permission.
+- Distribute any standalone builds without permission.
 - Decompile or reverse-engineer the source.
 - Modify the source.
 - Impersonate the Authors and/or claim credit for the software.
 - Not provide the license in your work, providing it is based on the original.
-- Sue us for any damages.
 - Downgrade to an older version of the License.
 
 ### Exceptions:
