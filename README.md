@@ -20,3 +20,5 @@ If you don't want to bother upgrading the license constantly, use this:
 (c) <authors>, <year>
 Please see github.com/MegapolisPlayer/U2DLicense for the full text of the license.
 ```
+
+# The newest version is: UDDL Version 1
