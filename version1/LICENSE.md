@@ -27,7 +27,7 @@ referred to as "Permission") from the Authors and copyright holders
 2. Using the Software for private, non-commercial educational purposes is allowed.
 
 3. Redistributing any standalone version of the Software is forbidden. Distributing
-a copy of the Software with the Derivative that uses it is allowed.
+a copy of the Software with the Derivative that uses is allowed.
 
 4. Creating any modified versions of the Software is forbidden.
 
@@ -54,7 +54,7 @@ the right of the Authors.
 limited to the warranties of merchantability and the warranties of fitness for
 a particular purpose.
 
-12. In no event shall the Authors of the Software be liable for any claim, damages or any
+12. In no event shall the Authors of the Software be liable for any claims, damages or any
 other liability, whether in action of contract, tort or otherwise, out of or in connection
 with the Software or any Derivative of the Software.
 
