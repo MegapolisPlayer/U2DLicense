@@ -40,7 +40,7 @@ code, assets and/or other materials from the Software is forbidden.
 
 7. Claiming credit for the Software is forbidden.
 
-8. The author(s) of any work using the Software (the "Derivative") must prove
+8. The authors of any work using the Software (the "Derivative") must prove
 permission from the Authors on request within 3 business days or 1 week, whatever 
 is shorter.
 
@@ -92,7 +92,7 @@ The reason for termination will be specified.
 21. Exceptions can be granted in some circumstances. The verdict relies solely on the
 Authors of the Software. Exceptions cannot be revoked separately.
 
-22. The author(s) of the License are not a party to this License.
+22. The authors of the License are not a party to this License.
 
 --
 
