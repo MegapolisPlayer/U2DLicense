@@ -18,5 +18,5 @@ If you don't want to bother upgrading the license constantly, use this:
 ```
 <software name> is licensed under the newest version of the UDDL.
 (c) <authors>, <year>
-Please see github.com/MegapolisPlayer/U2DLicense/newest for the full text of the license.
+Please see github.com/MegapolisPlayer/U2DLicense for the full text of the license.
 ```
