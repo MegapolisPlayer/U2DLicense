@@ -1,8 +1,10 @@
 ```
 
-The Unified Digital Distribution License (a.k.a. UDDL, U2DL, UDL or Udidil)
+The Unified Digital Distribution License
 Version 1
-(c) MegapolisPlayer 2022
+
+<software name> 
+(c) <author> <year>
 
 --
 
@@ -70,21 +72,24 @@ the Derivative are the Authors of the Software is forbidden.
 15. Pretending to be or impersonating the Authors of the Software is forbidden.
 
 --
-Sections 16-20: General License Information
+Sections 16-21: General License Information
 --
 
-16. Modifying this license is allowed only under Permission from the Authors.
+16. The following shortened names are allowed: UDDL, U2DL, UDL, Udidil, U2D. You may add
+the version number at the end.
 
-17. Upgrading to a newer version of the License is allowed and encouraged. Downgrading
+17. Modifying this license is allowed only under Permission from the Authors.
+
+18. Upgrading to a newer version of the License is allowed and encouraged. Downgrading
 the License is not.
 
-18. Breaking the terms of this license automatically invalidates your ability to use
+19. Breaking the terms of this license automatically invalidates your ability to use
 the copy of the software.
 
-19. The Authors reserve the right to terminate the license at any time, for any reason.
+20. The Authors reserve the right to terminate the license at any time, for any reason.
 The reason for termination will be specified.
 
-20. Exceptions can be granted in some circumstances. The verdict relies solely on the
+21. Exceptions can be granted in some circumstances. The verdict relies solely on the
 Authors of the Software. Exceptions cannot be revoked separately.
 
 --
