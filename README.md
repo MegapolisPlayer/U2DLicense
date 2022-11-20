@@ -1,6 +1,6 @@
 # U2DLicense
 
-A restrictive license in use by commercial projects.
+A restrictive license to use in commercial projects.
 
 This repository contains the full license text of all versions. We strongly recommend using the newest version, as older ones may have loopholes and unspecified edge-cases.
 
