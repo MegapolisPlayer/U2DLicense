@@ -1,4 +1,4 @@
-# VersaillesEngine
+# software name
 # The Unified Digital Distribution License 1 Summary
 ### This is a human-readable summary for the license, and not a substitute for it. For the full text, check out LICENSE.md.
 
@@ -25,5 +25,4 @@
 - We can revoke the license at any time for any reason which we must specify.
 
 ### Author
-- License by MegapolisPlayer, 2022
-- Software by MegapolisPlayer, ErKastan
+  (c) authors, year
