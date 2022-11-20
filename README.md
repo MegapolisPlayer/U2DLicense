@@ -15,5 +15,5 @@ Please see LICENSE.md for the full text of the license.
 If you don't want to bother upgrading the license constantly, use this:
 ```
 <software name> is licensed under the newest version of the UDDL.
-Please see github.com/VersaillesEngine/U2DLicense for the full text of the license.
+Please see github.com/MegapolisPlayer/U2DLicense for the full text of the license.
 ```
