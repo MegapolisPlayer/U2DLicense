@@ -76,7 +76,7 @@ Sections 16-21: General License Information
 --
 
 16. The following shortened names are allowed: UDDL, U2DL, UDL, Udidil, U2D. You may add
-the version number at the end.
+the license version number at the end.
 
 17. Modifying this license is allowed only under Permission from the Authors.
 
