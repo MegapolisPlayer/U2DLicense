@@ -27,7 +27,7 @@ referred to as "Permission") from the Authors and copyright holders
 2. Using the Software for private, non-commercial educational purposes is allowed.
 
 3. Redistributing any standalone version of the Software is forbidden. Distributing
-a copy of the Software with the Derivative that uses is allowed.
+a copy of the Software with the Derivative that uses it allowed.
 
 4. Creating any modified versions of the Software is forbidden.
 
