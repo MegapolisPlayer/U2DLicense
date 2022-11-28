@@ -1,3 +1,4 @@
+```
 
 The Unified Digital Distribution License
 Version 2.0
@@ -114,4 +115,4 @@ Authors of the Software. Exceptions can only be revoked together with the Licens
   
 --
   
-  
+```
