@@ -72,45 +72,45 @@ with the Software or any Derivative of the Software.
 		c) The Software is not commercial for more than 1 year.
 
 --
-Sections 15-17: User Information
+Sections 16-18: User Information
 --
 
-15 The user must be notified as soon as possible (hereinafter referred to as "ASAP")
+16. The user must be notified as soon as possible (hereinafter referred to as "ASAP")
 of the terms of the license. You may summarize the License as long as you do:
   a) not misinterpret the License,
   b) give the ability to view the full License text in its entirety,
 	c) give the ability to open the License summary multiple times.
 
-16. Advertising of the Software in such a way that a user might think that the authors of
+17. Advertising of the Software in such a way that a user might think that the authors of
 the Derivative are the Authors of the Software is forbidden.
 
-17. Pretending to be or impersonating the Authors of the Software is forbidden.
+18. Pretending to be or impersonating the Authors of the Software is forbidden.
 
 --
 Sections 18-25: General License Information
 --
 
-18. The following shortened names are allowed: UDDL, U2DL, UDL, Udidil, U2D. You may
+19. The following shortened names are allowed: UDDL, U2DL, UDL, Udidil, U2D. You may
 specify the License version in any way, as long as it is clear that the version stated
 referres to the License, not the Software or the Derivative. 
 
-19. Modifying this license is allowed only under Permission from the Authors.
+20. Modifying this license is allowed only under Permission from the Authors.
 	
-20. Modifying the Authors and the Copyright Year are not counted as Modificiations.
+21. Modifying the Authors and the Copyright Year are not counted as Modificiations.
 
-21. Upgrading to a newer version of the License is allowed and encouraged. Downgrading
+22. Upgrading to a newer version of the License is allowed and encouraged. Downgrading
 the License is forbidden.
 
-22. Breaking the terms of this license automatically invalidates your ability to use
+23. Breaking the terms of this license automatically invalidates your ability to use
 the copy of the software.
 
-23. The Authors reserve the right to terminate the license at any time, for any reason.
+24. The Authors reserve the right to terminate the license at any time, for any reason.
 The reason for termination must be specified.
 
-24. Exceptions can be granted in some circumstances. The verdict relies solely on the
+25. Exceptions can be granted in some circumstances. The verdict relies solely on the
 Authors of the Software. Exceptions can only be revoked together with the License.
 
-25. The authors of the License are not a party to this License unless stated otherwise.
+26. The authors of the License are not a party to this License unless stated otherwise.
   
 --
   
