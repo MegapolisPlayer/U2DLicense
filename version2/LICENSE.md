@@ -10,7 +10,7 @@ Version 2.0
 
 By using any files included in this directory, its subdirectories
 (hereinafter referred to as the "Software"), any files officially documenting or explaining
-the Software (hereinafter referred to as the "Material"), any resources used by the
+the Software (hereinafter referred to as the "Materials"), any resources used by the
 Software (hereinafter referred to as the "Assets") or any work actively using the
 Software (hereinafter referred to as the "Derivative") you agree to the following
 terms, hereinafter referred to as the "License":
