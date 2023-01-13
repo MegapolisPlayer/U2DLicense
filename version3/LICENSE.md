@@ -1,3 +1,5 @@
+```
+
 The Unified Digital Distribution License
 Version 3.0
 
@@ -122,3 +124,5 @@ Authors of the Software. Exceptions can only be revoked together with the Licens
 29. The authors of the License are not a party to this License unless stated otherwise.
   
 --
+
+```
