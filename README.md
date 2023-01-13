@@ -10,7 +10,7 @@ Please note that this license can **never** be used in any open source projects,
 
 Please add something along the lines of
 ```
-<software name> is licensed under UDDL 2 or, at your discretion, any later version of the UDDL.
+<software name> is licensed under UDDL 3 or, at your discretion, any later version of the UDDL.
 Please see LICENSE.md for the full text of the license.
 ```
 into your main or client-included file.
