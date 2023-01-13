@@ -18,7 +18,7 @@ terms, hereinafter referred to as the "License":
 Usage of the Software, Materials and Assets are allowed under the following conditions:
 
 --
-Sections 1-14: Information regarding the Software
+Sections 1-12: Information regarding the Software
 --
 
 1. Using the Software for commericial and/or public use is allowed only under
