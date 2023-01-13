@@ -22,4 +22,4 @@ If you don't want to bother upgrading the license constantly, use this:
 Please see github.com/MegapolisPlayer/U2DLicense for the full text of the license.
 ```
 
-# The newest version currently is: Version 2
+# The newest version currently is: Version 3
