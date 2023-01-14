@@ -82,57 +82,54 @@ subdirectory of the Software and/or the Derivative.
 16. The Derivative may be licensed under any license, providing it does not infringe
 the right of the Authors or any other party or group.
 
-17. The Derivative may not propagate any ideology, religion and/or group.
-
-18. The Derivative may not support or endorse any acts of violence and/or terrorism.
-
-19. The Derivative may contain propaganda or imagery of acts of violence as long as it
-is explicitly made for educational purposes or if the content is not under the Derivative's
-author's control.
-
 --
-Sections 20-21: User Information
+Sections 17-21: User Information
 --
 
-20. The user must be notified as soon as possible (hereinafter referred to as "ASAP")
+17. The Derivative or the Software may not support or endorse any acts of violence and/or terrorism.
+
+18. The Derivative may not contain propaganda or imagery of acts of violence unless
+they are explicitly for educational purposes.
+
+19. The user must be notified as soon as possible (hereinafter referred to as "ASAP")
 of the terms of the license. You may summarize the License as long as you do:
   a) not misinterpret the License,
   b) give the ability to view the full License text in its entirety,
   c) give the ability to open the License summary multiple times.
 
-21. Advertising of the Software in such a way that a user might think that the authors of
+20. Advertising of the Software in such a way that a user might think that the authors of
 the Derivative are the Authors of the Software is forbidden.
 
-22. Pretending to be or impersonating the Authors of the Software is forbidden.
+21. Pretending to be or impersonating the Authors of the Software is forbidden.
 
 --
-Sections 23-31: General License Information
+Sections 22-30: General License Information
 --
 
-23. The following shortened names are allowed: UDDL, U2DL, UDL, Udidil, U2D. You may
+22. The following shortened names are allowed: UDDL, U2DL, UDL, Udidil, U2D. You may
 specify the License version in any way, as long as it is clear that the version stated
 referres to the License, not the Software or the Derivative. 
 
-24. Modifying this license is allowed only under Permission from the Authors.
+23. Modifying this license is allowed only under Permission from the Authors.
 	
-25. Modifying the Authors and the Copyright Year are not counted as Modificiations.
+24. Modifying the Authors and the Copyright Year are not counted as Modificiations.
 
-26. Upgrading to a newer version of the License is allowed and encouraged. Downgrading
+25. Upgrading to a newer version of the License is allowed and encouraged. Downgrading
 the License is forbidden.
 
-27. The users of the Software can upgrade to a newer version of the License when using or
+26. The users of the Software can upgrade to a newer version of the License when using or
 taking over the project.
 
-28. Breaking the terms of this license automatically invalidates your ability to use
+27. Breaking the terms of this license automatically invalidates your ability to use
 the copy of the software.
 
-29. The Authors reserve the right to terminate the license at any time, for any reason.
+28. The Authors reserve the right to terminate the license at any time, for any reason.
 The reason for termination must be specified.
 
-30. Exceptions can be granted in some circumstances. The verdict relies solely on the
+29. Exceptions can be granted in some circumstances. The verdict relies solely on the
 Authors of the Software. Exceptions can only be revoked together with the License.
 
-31. The authors of the License are not a party to this License unless stated otherwise.
+30. The authors of the License are not a party to this License unless stated otherwise.
   
 --
 
