@@ -21,12 +21,12 @@ Usage of the Software, Materials and Assets are allowed under the following cond
 Sections 1-12: Information regarding the Software
 --
 
-1. Using the Software for commericial and/or public use is allowed only under
+1. Using the Software for commercial and/or public use is allowed only under
 prior written, electronic or otherwise provable permission (hereinafter
 referred to as "Permission") from the majority of the Authors and copyright holders
 (hereinafter referred to as "Authors").
 
-2. Using the Software for non-commerical self-educative purposes (such as studying
+2. Using the Software for non-commercial self-educative purposes (such as studying
 the Materials) is allowed.
 
 3. Redistributing any standalone binary of the Software is forbidden. Distributing
@@ -108,7 +108,7 @@ Sections 22-30: General License Information
 
 22. The following shortened names are allowed: UDDL, U2DL, UDL, Udidil, U2D. You may
 specify the License version in any way, as long as it is clear that the version stated
-referres to the License, not the Software or the Derivative. 
+refers to the License, not the Software or the Derivative. 
 
 23. Modifying this license is allowed only under Permission from the Authors.
 	
