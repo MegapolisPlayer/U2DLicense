@@ -11,9 +11,13 @@ Permission is hereby granted to
 <user>
 to use the software under the terms of the UDDL license.
 
-This file must be accompanied by a proof of agreement accessible to both parites.
-A proof must be accepted by both sides and can be revoked by both sides with 2 weeks notice.
-In case of a breach of terms the author may terminate the license immediately.
+This file must be accompanied by a proof of agreement
+accessible to both parites. A proof must be accepted by
+both sides and can be revoked by both sides with 2 weeks
+notice.\ In case of a breach of terms the author of the
+licensed work may terminate the license immediately.
 
-FILES COME WITHOUT ANY WARRANTIES UNLESS OTHERWISE STATED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+FILES COME WITHOUT ANY WARRANTIES UNLESS OTHERWISE STATED,
+INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY OR
+FITNESS FOR A PARTICULAR PURPOSE.
 ```
