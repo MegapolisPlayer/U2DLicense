@@ -1,3 +1,4 @@
+```
 The Unified Digital Distribution License
 Permission to use software licensed under the License.
 
@@ -15,5 +16,4 @@ A proof must be accepted by both sides and can be revoked by both sides with 2 w
 In case of a breach of terms the author may terminate the license immediately.
 
 FILES COME WITHOUT ANY WARRANTIES UNLESS OTHERWISE STATED, INCLUDING THE IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
-
-
+```
